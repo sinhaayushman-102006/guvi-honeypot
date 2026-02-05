@@ -5,7 +5,7 @@ You can **paste this directly** into `README.md` with zero changes.
 # 🕵️ Agentic Honey-Pot for Scam Detection & Intelligence Extraction
 
 **Hackathon:** GUVI Agentic AI Hackathon
-**Team Name:** guvi-honeypot-team-alpha-2026
+**Team Name:** guvi-honeypot-THE-BOYZ-2026
 
 
 
